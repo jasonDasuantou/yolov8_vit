@@ -11,4 +11,4 @@ By integrating the YOLOv8 algorithm, developed with the PyTorch framework, and i
 * Modify the address of the dataset in the data.jaml file(修改data.yaml文件中数据集的地址)
 * `python train_det `
 
-I have detailed explanation links in CSND:
+I have detailed explanation links in CSND: https://blog.csdn.net/W_extend/article/details/140927579
